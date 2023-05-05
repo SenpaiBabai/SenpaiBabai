@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **netmap (corp project)**
 
-- 🌱 I’m currently learning **Nest js and Prisma**
-
 - 📫 How to reach me **dkhasanov76@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
